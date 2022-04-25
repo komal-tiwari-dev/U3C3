@@ -1,0 +1,11 @@
+#navbar{
+    display: flex;
+    justify-content: space-between;
+}
+#add-money{
+    margin: auto;
+    width: 200px;
+    gap: 10px;
+    display: grid;
+    grid-template-columns: repeat(1,1fr);
+}
